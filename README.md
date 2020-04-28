@@ -1,3 +1,3 @@
 # Lowandpieapp
-## E ile Oyuna başlşyın koymayı unuttum.
+## E ile Oyuna başlayın koymayı unuttum.
 https://lowandpie.github.io/lowandpie-tr.html
